@@ -1,0 +1,21 @@
+{
+  "name": "@o2team/jsdoc",
+  "version": "0.0.1",
+  "description": "jsdoc 生成自动化文档",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jsdoc",
+    "自动化文档"
+  ],
+  "author": "chenzeji",
+  "license": "MIT",
+  "devDependencies": {
+    "docdash": "^0.4.0",
+    "gulp": "^3.9.1",
+    "gulp-jsdoc3": "^2.0.0",
+    "jsdoc": "^3.5.5"
+  }
+}
